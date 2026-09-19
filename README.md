@@ -238,4 +238,4 @@ This repository serves as the official landing page for Leawo Blu-ray Ripper. Th
 **Get the most recent version of Leawo Blu-ray Ripper today!**
 
 ---
-**Last updated:** 2026-09-18 23:42:44 UTC
+**Last updated:** 2026-09-19 01:57:26 UTC
